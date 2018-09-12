@@ -17,7 +17,6 @@ h2 {
   color: #000000;
   border: 1px;
   font-family: Arial, Helvetica, sans-serif;
-  position: inherit;
   padding-left: 0px;
   padding-right: 0px;
   padding-top: 10px;
@@ -25,7 +24,6 @@ h2 {
 }
 a {color: #000000;
   font-family: Arial, Helvetica, sans-serif;
-  position: inherit;
   font-weight: bold;
 }
 #contactinfo {
