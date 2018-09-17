@@ -9,12 +9,24 @@ html{
 h1 {
   color: #FFF8DC;
   background-color: #228B22;
+  margin-right: 10%;
+  margin-left: 4%;
+  margin-top: 0%;
+  margin-bottom: 1%;
+  padding-left: 1%;
+  padding-right: 0%;
+  padding-top: .5%;
+  padding-bottom: .5%;
 }
 img {
+  display: block;
   padding-left: 4%;
   padding-right: 0%;
   padding-top: 1%;
   padding-bottom: 0%;
+  width: auto;
+  max-width: 100%;
+  height: auto;
 }
 h2 {
   color: #000000;
